@@ -1,1 +1,2 @@
-This is an open source FPS game. Can only mod on PC.
+This is an open source FPS game.
+
